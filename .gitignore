@@ -1,0 +1,54 @@
+# Build artifacts
+bin/
+obj/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# DotNet specific
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Visual Studio specific
+.vscode/
+.vs/
+.idea/
+
+# Rider specific
+.idea/
+*.sln.iml
+
+# Temporary files
+*.tmp
+*.temp
+~$*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+# Config and environment
+appsettings.*.json
+.env
+.env.*
+
+# Publish output
+publish/
+
+# Generated code
+generated/
